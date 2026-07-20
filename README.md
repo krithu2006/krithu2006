@@ -1,70 +1,62 @@
 <h1 align="center">Hi 👋, I'm Kritharth Jain</h1>
 
-<h3 align="center">💻 Engineering Student | Java Developer | Web Development Enthusiast | Learning AI</h3>
+<h3 align="center">
+Engineering Student • Java Developer • Web Development Enthusiast • Learning AI
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Web+Development+Enthusiast;Currently+Learning+AI+%26+Modern+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Java+Developer;Web+Development+Enthusiast;Learning+Artificial+Intelligence;Always+Learning+Something+New" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 3rd Year Information Science Engineering Student  
-🏫 Canara Engineering College, Karnataka, India
+🎓 **3rd Year Information Science Engineering Student**
 
-- 🌱 Currently learning **Artificial Intelligence & Modern Software Development**
-- 💻 Passionate about **Java, Web Development, and Open Source**
-- 🚀 I enjoy building projects and continuously improving my programming skills.
-- 📚 Always curious to learn new technologies.
+🏫 **Canara Engineering College, Karnataka**
+
+💻 Passionate about software development and building practical applications.
+
+🌱 Currently learning Artificial Intelligence and modern development technologies.
+
+🚀 I enjoy solving problems, exploring new technologies, and continuously improving my programming skills.
 
 ---
 
-## 🛠️ Languages & Tools
+## 💻 Languages
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,git,github,vscode" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js" />
 </p>
 
 ---
 
-## 📖 Currently Learning
+## 🛠 Tools
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mongodb,python" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krithu2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krithu2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=krithu2006&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,postgres,mongodb" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-Coming Soon...
+I'm currently working on building and publishing more projects.
+
+Stay tuned! 😊
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect with Me
 
 <p align="left">
 
@@ -76,12 +68,15 @@ Coming Soon...
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile! ⭐
 
-</p>
+*"Keep learning, keep building."*
+
+</div>
