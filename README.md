@@ -84,6 +84,7 @@ Currently Learning:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
 </p>
+
 ---
 
 # 🚀 Featured Projects
