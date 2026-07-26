@@ -46,15 +46,59 @@ Engineering Student • Java Developer • Web Development Enthusiast • Learni
 <img src="https://skillicons.dev/icons?i=python,react,nodejs,postgres,mongodb" />
 </p>
 
+## 🚀 Featured Projects
+
+### 🌿 GreenPath
+Environmental awareness platform with real-time AQI, cleaner travel routes, multilingual voice guidance, and offline support.
+
+**Tech:** Node.js • JavaScript • Google Maps
+
+🏆 **3rd Place – Project Sankalp "Code4Change"**
+
+<p>
+<a href="https://greenpath-hs5x.onrender.com">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+</p>
+
 ---
 
-## 🚀 Projects
+### 🚨 KaliSOS
+Voice-activated emergency SOS application with live GPS tracking and a real-time responder dashboard.
 
-I'm currently working on building and publishing more projects.
+**Tech:** React • Node.js • MySQL
 
-Stay tuned! 😊
+<p>
+<a href="https://kali-sos.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+</p>
 
 ---
+
+### 🎤 Awaaz
+Voice-first grievance reporting platform with multilingual complaint submission and blockchain-backed audit trail.
+
+**Tech:** Node.js • JavaScript • Solidity
+
+<p>
+<a href="https://team-26-1.onrender.com">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+### 🤖 OpenEnv-Synaptrix
+AI-powered email intelligence system that classifies emails, detects urgency, and generates smart replies using LLMs.
+
+**Tech:** Python • FastAPI • Docker
+
+<p>
+<a href="https://huggingface.co/spaces/krithu2006/OpenEnv-Synaptrix-master">
+<img src="https://img.shields.io/badge/🤗_HuggingFace_Space-FFD21E?style=for-the-badge"/>
+</a>
+</p>
 
 ## 📫 Connect with Me
 
@@ -73,7 +117,15 @@ Stay tuned! 😊
 
 ---
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krithu2006/krithu2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <div align="center">
+---
 
 ### Thanks for visiting my profile! ⭐
 
